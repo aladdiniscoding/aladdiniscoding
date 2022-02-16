@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aladdiniscoding
-- 👀 I’m studying electrical engineering, information technologyand computer engineering at RWTH Aachen University, Germany
+- 👀 I’m studying electrical engineering, information technology and computer engineering at RWTH Aachen University, Germany
 - 🌱 I’m currently learning python and c++ soon
 - 📫 Reach me on Linkedin @aladdintebib
 
